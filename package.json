@@ -1,0 +1,16 @@
+{
+  "name": "tailws",
+  "version": "1.0.0",
+  "description": "Tail over network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "tail": "^2.0.3",
+    "ws": "^7.2.3"
+  }
+}
